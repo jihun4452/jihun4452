@@ -1,6 +1,6 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&color=F7110C&width=435&lines=Jihun+github+welcome" alt="Typing SVG" /></a></h1>
 <div align="center">
-### Introduction
+### Introduction <br>
 안녕하세요! 백엔드 개발자를 꿈꾸는 박지훈입니다.<br>
 열심히 해서 잘 성장하겠습니다!
 </div>
