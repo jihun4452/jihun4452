@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
----
 
 <h3 align="center">🔧 Tools 🔧</h3>
 <div align="center">
