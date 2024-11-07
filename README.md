@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7110C&width=435&lines=Jihun+github+welcome" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&color=F7110C&width=435&lines=Jihun+github+welcome" alt="Typing SVG" /></a></h1>
 
 <h3 align="center">🛠 Tech Stacks 🛠</h3>
 <div align="center">
