@@ -6,6 +6,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihun4452)
 
 </div>
+<h3 align="center">🛠 Tech Stacks 🛠</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
+</div>
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
