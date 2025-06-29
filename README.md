@@ -41,7 +41,6 @@
 ---
 
 <div align="center">
-  <h3>📊 GitHub Stats 📊</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=jihun4452&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihun4452&layout=compact&theme=radical" alt="Top Languages" />
+  <h3> GitHub Stats </h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=jihun4452&show_icons=true&bg_color=ffffff&text_color=1e90ff&icon_color=1e90ff&title_color=1e90ff&border_color=1e90ff" alt="GitHub Stats" />
 </div>
