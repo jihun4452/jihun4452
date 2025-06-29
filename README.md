@@ -39,8 +39,13 @@
 </div>
 
 ---
-
 <div align="center">
-  <h3> GitHub Stats </h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=jihun4452&show_icons=true&bg_color=ffffff&text_color=1e90ff&icon_color=1e90ff&title_color=1e90ff&border_color=1e90ff" alt="GitHub Stats" />
+  <h3>GitHub Stats</h3>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=jihun4452&show_icons=true&bg_color=ffffff&text_color=000000&icon_color=f1c40f&title_color=e74c3c&border_color=e74c3c"
+    alt="GitHub Stats" />
 </div>
+
+
+
+
