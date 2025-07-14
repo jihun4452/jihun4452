@@ -4,12 +4,6 @@
   </a>
 </h1>
 
-<div align="center">
-  <h3> 👋 Introduction</h3>
-  안녕하세요! 백엔드 개발자를 꿈꾸는 박지훈입니다.<br>
-  열심히 해서 잘 성장하겠습니다! 🚀
-</div>
-
 ---
 
 <h3 align="center">🛠 Tech Stacks 🛠</h3>
@@ -29,13 +23,6 @@
 <img src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" />
 
 
-</div>
-
-<h3 align="center">🔧 Tools 🔧</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
 </div>
 
 ---
