@@ -15,7 +15,21 @@
   <img src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-### Open Source Contributions
+## Projects
+
+- **GamzaTechBlog** (2025.06 ~ 현재, Team: 3 B1·F1·D1)  [[Repository]](https://github.com/potato-club/GamzaTechBlog-back)<br>
+  동아리 활동을 위한 기술 블로그 플랫폼  
+  GitHub API와 연동되어 **글 작성 시 자동으로 GitHub Repo에 저장·배포**되는 방식으로 운영  
+
+- **Hanmo (한모)** (2025.03 ~ 2025.07, Team: 6 B3·F2·D1) [[Repository]](https://github.com/DevOpsSociety/Hanmo)<br>
+  교내 학생들을 위한 실시간 친구·과팅 매칭 서비스  
+  **200명 이상 사용**, **70팀 이상 매칭 성사**로 교내 교류 활성화에 기여  
+
+- **Luview (러뷰)** (2024.09 ~ 2025.02, Team: 4 B2·F2)  [[Repository]](https://github.com/potato-club/Luview-back)<br>
+  커플 전용 기록 및 리뷰 웹 서비스  
+  **장소 기록·사진 업로드·리뷰 작성**을 통해 커플이 함께한 추억을 관리할 수 있는 서비스  
+
+## Open Source Contributions
 
 - [Apache Seata] test: `ConsulConfigurationTest#testInitSeataConfig` **테스트 안정화(Deflake)** [[#7584]](https://github.com/apache/incubator-seata/pull/7584)  
   Consul KV 타이밍 플레이크 흡수를 위해 **최대 ~3초 대기/재시도(100ms backoff)** 추가 → 테스트 안정화 — **Merged**, fixes [#7583](https://github.com/apache/incubator-seata/issues/7583).
@@ -23,7 +37,7 @@
 - [Apache SeaTunnel] Docs: SQL 함수 **반환 타입** 명시 및 예시 정리 [[#9711]](https://github.com/apache/seatunnel/pull/9711)  
   각 함수에 “This method returns …” 한 줄과 **대문자 타입 표기** 추가, EN/zh 문서 일관성/포맷 정리 — **Merged**, closes [#9703](https://github.com/apache/seatunnel/issues/9703).
 
-### Stats & Algorithm
+## Stats & Algorithm
 
 <div align="center">
   <img
