@@ -19,7 +19,7 @@
 
 - **GamzaTechBlog** (2025.06 ~ 현재, Team: 3 B1·F1·D1)  [[Repository]](https://github.com/potato-club/GamzaTechBlog-back)<br>
   동아리 활동을 위한 기술 블로그 플랫폼  
-  GitHub API와 연동되어 **글 작성 시 자동으로 GitHub Repo에 저장·배포**되는 방식으로 운영  
+  GitHub API와 연동되어 **기술블로그에 글 작성 시 자동으로 GitHub Repo에 저장·배포**되는 방식으로 운영  
 
 - **Hanmo (한모)** (2025.03 ~ 2025.07, Team: 6 B3·F2·D1) [[Repository]](https://github.com/DevOpsSociety/Hanmo)<br>
   교내 학생들을 위한 실시간 친구·과팅 매칭 서비스  
