@@ -37,9 +37,12 @@
 - [Apache SeaTunnel] Docs: SQL 함수 **반환 타입** 명시 및 예시 정리 [[#9711]](https://github.com/apache/seatunnel/pull/9711)  
   각 함수에 “This method returns …” 한 줄과 **대문자 타입 표기** 추가, EN/zh 문서 일관성/포맷 정리 — **Merged**, closes [#9703](https://github.com/apache/seatunnel/issues/9703).
 
-- [Apache Seata] chore: **@babel/runtime 의존성 업그레이드** [[#7673]](https://github.com/apache/incubator-seata/pull/7673)  
-  `console-fe/package.json`의 `@babel/runtime` 버전을 `^7.26.10` → `^7.27.0`으로 상향.  
-  `package-lock.json`에 이미 반영된 버전과 정합성 유지, **보안 취약점(CVE-2025-27789) 해소** — **Merged**, fixes [#7660](https://github.com/apache/incubator-seata/issues/7660).  
+- [Apache Seata] chore: **upgrade @babel/runtime to ^7.27.0** [[#7673]](https://github.com/apache/incubator-seata/pull/7673)  
+  `@babel/runtime`을 ^7.27.0으로 업그레이드해 package-lock.json과 정합성 유지 — **Merged**, fixes [#7660](https://github.com/apache/incubator-seata/issues/7660).  
+
+- [Apache Seata] optimize: **upgrade axios to 1.12.2** [[#7699]](https://github.com/apache/incubator-seata/pull/7699)  
+  `axios를 콘솔 프론트엔드에서 ^1.12.2로 업그레이드해 package.json·package-lock.json을 동기화함 — Merged, fixes [#7659](https://github.com/apache/incubator-seata/issues/7659).
+
 
 ## Stats & Algorithm
 
