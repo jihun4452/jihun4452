@@ -41,7 +41,7 @@
   `@babel/runtime`을 ^7.27.0으로 업그레이드해 package-lock.json과 정합성 유지 — **Merged**, fixes [#7660](https://github.com/apache/incubator-seata/issues/7660).  
 
 - [Apache Seata] optimize: **upgrade axios to 1.12.2** [[#7699]](https://github.com/apache/incubator-seata/pull/7699)  
-  `axios를 콘솔 프론트엔드에서 ^1.12.2로 업그레이드해 package.json·package-lock.json을 동기화함 — Merged, fixes [#7659](https://github.com/apache/incubator-seata/issues/7659).
+  `axios를 콘솔 프론트엔드에서 ^1.12.2로 업그레이드해 package.json·package-lock.json을 동기화 — **Merged**, fixes [#7659](https://github.com/apache/incubator-seata/issues/7659).
 
 
 ## Stats & Algorithm
