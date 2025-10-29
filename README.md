@@ -34,10 +34,12 @@
 #### Apache Projects
 
 - [Apache Seata] test: `ConsulConfigurationTest#testInitSeataConfig` **테스트 안정화(Deflake)** [[#7584]](https://github.com/apache/incubator-seata/pull/7584)  
-  Consul KV 타이밍 플레이크 흡수를 위해 **최대 ~3초 대기/재시도(100ms backoff)** 추가 → 테스트 안정화 — **Merged**, fixes [#7583](https://github.com/apache/incubator-seata/issues/7583).
+  Consul KV 타이밍 플레이크 흡수를 위해 **최대 ~3초 대기/재시도(100ms backoff)** 추가 → 테스트 안정화 — **Merged**, fixes [#7583](https://github.com/apache/incubator-seata/issues/7583).<br>
+  [상세 글 보러가기](https://velog.io/@jihun4452/apache-incubator-seata%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%B2%AB-%EA%B8%B0%EC%97%AC).
 
 - [Apache SeaTunnel] Docs: SQL 함수 **반환 타입** 명시 및 예시 정리 [[#9711]](https://github.com/apache/seatunnel/pull/9711)  
-  각 함수에 “This method returns …” 한 줄과 **대문자 타입 표기** 추가, EN/zh 문서 일관성/포맷 정리 — **Merged**, closes [#9703](https://github.com/apache/seatunnel/issues/9703).
+  각 함수에 “This method returns …” 한 줄과 **대문자 타입 표기** 추가, EN/zh 문서 일관성/포맷 정리 — **Merged**, closes [#9703](https://github.com/apache/seatunnel/issues/9703).<br>
+  [상세 글 보러가기](https://velog.io/@jihun4452/apache-seatunnel-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%91%90%EB%B2%88%EC%A7%B8-%EA%B8%B0%EC%97%AC).
 
 - [Apache Seata] chore: **upgrade @babel/runtime to ^7.27.0** [[#7673]](https://github.com/apache/incubator-seata/pull/7673)  
   `@babel/runtime`을 ^7.27.0으로 업그레이드해 package-lock.json과 정합성 유지 — **Merged**, fixes [#7660](https://github.com/apache/incubator-seata/issues/7660).  
@@ -49,8 +51,7 @@
 
 - [JUnit] fix: **Validate argument count for @ParameterizedClass field injection** [[#5088]](https://github.com/junit-team/junit-framework/pull/5088)  
   `@ParameterizedClass` 필드 인젝션 시 인자 부족으로 발생하던 **ArrayIndexOutOfBoundsException**을  
-  명확한 **ParameterResolutionException**으로 변경해 오류 메시지 개선 및 테스트 안정화 — **Merged**, closes [#5079](https://github.com/junit-team/junit-framework/issues/5079).
-  
+  명확한 **ParameterResolutionException**으로 변경해 오류 메시지 개선 및 테스트 안정화 — **Merged**, closes [#5079](https://github.com/junit-team/junit-framework/issues/5079).<br>
   [상세 글 보러가기](https://velog.io/@jihun4452/JUnit%EC%97%90-%EA%B8%B0%EC%97%AC%EB%A5%BC-%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4).
 
 ## Stats & Algorithm
