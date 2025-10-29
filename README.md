@@ -29,9 +29,10 @@
   커플 전용 기록 및 리뷰 웹 서비스  
   **장소 기록·사진 업로드·리뷰 작성**을 통해 커플이 함께한 추억을 관리할 수 있는 서비스  
 
+
 ## Open Source Contributions
 
-#### Apache Projects
+<img width="180" height="90" alt="image" src="https://github.com/user-attachments/assets/b8154a86-2654-4c80-9a5c-4a83f5355edd" />
 
 - [Apache Seata] test: `ConsulConfigurationTest#testInitSeataConfig` **테스트 안정화(Deflake)** [[#7584]](https://github.com/apache/incubator-seata/pull/7584)  
   Consul KV 타이밍 플레이크 흡수를 위해 **최대 ~3초 대기/재시도(100ms backoff)** 추가 → 테스트 안정화 — **Merged**, fixes [#7583](https://github.com/apache/incubator-seata/issues/7583).<br>
@@ -47,7 +48,7 @@
 - [Apache Seata] optimize: **upgrade axios to 1.12.2** [[#7699]](https://github.com/apache/incubator-seata/pull/7699)  
   `axios`를 콘솔 프론트엔드에서 ^1.12.2로 업그레이드해 package.json·package-lock.json을 동기화 — **Merged**, fixes [#7659](https://github.com/apache/incubator-seata/issues/7659).
 
-#### JUnit
+<img width="120" height="140" alt="image" src="https://github.com/user-attachments/assets/5c7518a0-6c64-4dc5-b692-34b934ad0f36" />
 
 - [JUnit] fix: **Validate argument count for @ParameterizedClass field injection** [[#5088]](https://github.com/junit-team/junit-framework/pull/5088)  
   `@ParameterizedClass` 필드 인젝션 시 인자 부족으로 발생하던 **ArrayIndexOutOfBoundsException**을  
