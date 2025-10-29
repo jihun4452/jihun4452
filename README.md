@@ -50,6 +50,8 @@
 - [JUnit] fix: **Validate argument count for @ParameterizedClass field injection** [[#5088]](https://github.com/junit-team/junit-framework/pull/5088)  
   `@ParameterizedClass` 필드 인젝션 시 인자 부족으로 발생하던 **ArrayIndexOutOfBoundsException**을  
   명확한 **ParameterResolutionException**으로 변경해 오류 메시지 개선 및 테스트 안정화 — **Merged**, closes [#5079](https://github.com/junit-team/junit-framework/issues/5079).
+  
+  [상세 글 보러가기](https://velog.io/@jihun4452/JUnit%EC%97%90-%EA%B8%B0%EC%97%AC%EB%A5%BC-%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4).
 
 ## Stats & Algorithm
 
