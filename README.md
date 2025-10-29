@@ -13,16 +13,12 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" />
+<br>
+<br>
 
-## Projects
- <img width="35" height="35" alt="GamzaTechBlog" 
-       src="https://github.com/user-attachments/assets/43f1e03e-f673-4635-9e19-f79d4225b541" 
-       style="float: left; margin-right: 10px;"/><img width="40" height="40" alt="Hanmo" 
-       src="https://github.com/user-attachments/assets/82cd1f4d-96b2-49f4-b7d7-a0f2d4568cda" 
-       style="float: left; margin-right: 10px;"/>
-        <img width="45" height="40" alt="Luview" 
-       src="https://github.com/user-attachments/assets/676eba2a-2889-4edf-888a-2e65106be199" 
-       style="float: left; margin-right: 10px;"/>
+  
+<img width="100" height="50" alt="image" src="https://github.com/user-attachments/assets/d8e651e4-58e1-4f50-82ed-8be13c23d936" />
+
 - **GamzaTechBlog** (2025.06 ~ 현재, Team: 3 B1·F1·D1)  [[Repository]](https://github.com/potato-club/GamzaTechBlog-back)<br>
   동아리 활동을 위한 기술 블로그 플랫폼  
   GitHub API와 연동되어 **기술블로그에 글 작성 시 자동으로 GitHub Repo에 저장·배포**되는 방식으로 운영  
@@ -35,8 +31,6 @@
   커플 전용 기록 및 리뷰 웹 서비스  
   **장소 기록·사진 업로드·리뷰 작성**을 통해 커플이 함께한 추억을 관리할 수 있는 서비스  
 
-
-## Open Source Contributions
 
 <img width="100" height="50" alt="image" src="https://github.com/user-attachments/assets/b8154a86-2654-4c80-9a5c-4a83f5355edd" />
 
