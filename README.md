@@ -6,13 +6,7 @@
   <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 ## Projects
@@ -32,7 +26,7 @@
 
 ## Open Source Contributions
 
-<img width="180" height="90" alt="image" src="https://github.com/user-attachments/assets/b8154a86-2654-4c80-9a5c-4a83f5355edd" />
+<img width="170" height="85" alt="image" src="https://github.com/user-attachments/assets/b8154a86-2654-4c80-9a5c-4a83f5355edd" />
 
 - [Apache Seata] test: `ConsulConfigurationTest#testInitSeataConfig` **테스트 안정화(Deflake)** [[#7584]](https://github.com/apache/incubator-seata/pull/7584)  
   Consul KV 타이밍 플레이크 흡수를 위해 **최대 ~3초 대기/재시도(100ms backoff)** 추가 → 테스트 안정화 — **Merged**, fixes [#7583](https://github.com/apache/incubator-seata/issues/7583).<br>
@@ -48,7 +42,7 @@
 - [Apache Seata] optimize: **upgrade axios to 1.12.2** [[#7699]](https://github.com/apache/incubator-seata/pull/7699)  
   `axios`를 콘솔 프론트엔드에서 ^1.12.2로 업그레이드해 package.json·package-lock.json을 동기화 — **Merged**, fixes [#7659](https://github.com/apache/incubator-seata/issues/7659).
 
-<img width="120" height="140" alt="image" src="https://github.com/user-attachments/assets/5c7518a0-6c64-4dc5-b692-34b934ad0f36" />
+<img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/5c7518a0-6c64-4dc5-b692-34b934ad0f36" />
 
 - [JUnit] fix: **Validate argument count for @ParameterizedClass field injection** [[#5088]](https://github.com/junit-team/junit-framework/pull/5088)  
   `@ParameterizedClass` 필드 인젝션 시 인자 부족으로 발생하던 **ArrayIndexOutOfBoundsException**을  
