@@ -15,6 +15,10 @@
   <img src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" />
 
 ## Projects
+  <img width="250" height="150" alt="image" src="https://github.com/user-attachments/assets/4bc3108b-37a6-4a33-ba59-beda6aba8c36" />
+  <img width="250" height="150" alt="image" src="https://github.com/user-attachments/assets/a84cdf2c-546e-421e-bd09-64de954bdd3d" />
+  <img width="250" height="150" alt="image" src="https://github.com/user-attachments/assets/f08289d0-6a35-4a2d-bb35-051bb0894410" />
+
 - **GamzaTechBlog** (2025.06 ~ 현재, Team: 3 B1·F1·D1)  [[Repository]](https://github.com/potato-club/GamzaTechBlog-back)<br>
   동아리 활동을 위한 기술 블로그 플랫폼  
   GitHub API와 연동되어 **기술블로그에 글 작성 시 자동으로 GitHub Repo에 저장·배포**되는 방식으로 운영  
