@@ -16,7 +16,7 @@
 <br>
 <br>
 
-<img width="80" height="40" alt="image" src="https://github.com/user-attachments/assets/d8e651e4-58e1-4f50-82ed-8be13c23d936" />
+<img width="90" height="45" alt="image" src="https://github.com/user-attachments/assets/9d31f859-50a3-460a-89d4-d13c8c9f3f1c" />
 
 - **GamzaTechBlog** (2025.06 ~ 현재, Team: 3 B1·F1·D1)  [[Repository]](https://github.com/potato-club/GamzaTechBlog-back)<br>
   동아리 활동을 위한 기술 블로그 플랫폼  
