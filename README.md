@@ -6,16 +6,15 @@
   <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-</p>
+  <br>
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" />
 
 ## Projects
-<div align="center">
-  <img width="250" height="140" alt="image" src="https://github.com/user-attachments/assets/4bc3108b-37a6-4a33-ba59-beda6aba8c36" />
-  <img width="250" height="140" alt="image" src="https://github.com/user-attachments/assets/a84cdf2c-546e-421e-bd09-64de954bdd3d" />
-  <img width="250" height="140" alt="image" src="https://github.com/user-attachments/assets/f08289d0-6a35-4a2d-bb35-051bb0894410" />
-</div>
-
 - **GamzaTechBlog** (2025.06 ~ 현재, Team: 3 B1·F1·D1)  [[Repository]](https://github.com/potato-club/GamzaTechBlog-back)<br>
   동아리 활동을 위한 기술 블로그 플랫폼  
   GitHub API와 연동되어 **기술블로그에 글 작성 시 자동으로 GitHub Repo에 저장·배포**되는 방식으로 운영  
