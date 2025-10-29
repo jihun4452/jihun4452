@@ -15,12 +15,12 @@
   <img src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" />
 
 ## Projects
- <img width="40" height="40" alt="GamzaTechBlog" 
+ <img width="35" height="35" alt="GamzaTechBlog" 
        src="https://github.com/user-attachments/assets/43f1e03e-f673-4635-9e19-f79d4225b541" 
-       style="float: left; margin-right: 10px;"/><img width="50" height="50" alt="Hanmo" 
+       style="float: left; margin-right: 10px;"/><img width="40" height="40" alt="Hanmo" 
        src="https://github.com/user-attachments/assets/82cd1f4d-96b2-49f4-b7d7-a0f2d4568cda" 
        style="float: left; margin-right: 10px;"/>
-        <img width="55" height="50" alt="Luview" 
+        <img width="45" height="40" alt="Luview" 
        src="https://github.com/user-attachments/assets/676eba2a-2889-4edf-888a-2e65106be199" 
        style="float: left; margin-right: 10px;"/>
 - **GamzaTechBlog** (2025.06 ~ 현재, Team: 3 B1·F1·D1)  [[Repository]](https://github.com/potato-club/GamzaTechBlog-back)<br>
