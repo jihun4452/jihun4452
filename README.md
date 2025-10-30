@@ -30,7 +30,7 @@
   **장소 기록·사진 업로드·리뷰 작성**을 통해 커플이 함께한 추억을 관리할 수 있는 서비스  
 
 
-<img width="97" height="46" alt="image" src="https://github.com/user-attachments/assets/b8154a86-2654-4c80-9a5c-4a83f5355edd" />
+<img width="93" height="46" alt="image" src="https://github.com/user-attachments/assets/b8154a86-2654-4c80-9a5c-4a83f5355edd" />
 
 - [Apache Seata] test: Consul KV 지연에 대비해 최대 3초 재시도로 테스트 안정화 [[#7584]](https://github.com/apache/incubator-seata/pull/7584) / [관련 블로그](https://velog.io/@jihun4452/apache-incubator-seata%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%B2%AB-%EA%B8%B0%EC%97%AC)
 
@@ -40,7 +40,7 @@
 
 - [Apache Seata] optimize: axios를 ^1.12.2로 업그레이드해 콘솔 프론트엔드 동기화 [[#7699]](https://github.com/apache/incubator-seata/pull/7699)
 
-<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/5c7518a0-6c64-4dc5-b692-34b934ad0f36" />
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/5c7518a0-6c64-4dc5-b692-34b934ad0f36" />
 
 - [JUnit] fix: @ParameterizedClass 필드 인젝션 시 인자 부족 오류를 명확한 예외로 개선 [[#5088]](https://github.com/junit-team/junit-framework/pull/5088) / [관련 블로그](https://velog.io/@jihun4452/JUnit%EC%97%90-%EA%B8%B0%EC%97%AC%EB%A5%BC-%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4)
 
