@@ -23,7 +23,7 @@
 
 - **Hanmo (한모)** (2025.03 ~ 2025.07, Team: 6 B3·F2·D1) [[Repository]](https://github.com/DevOpsSociety/Hanmo)<br>
   교내 학생들을 위한 실시간 친구·과팅 매칭 서비스  
-  **200명 이상 사용**, **70팀 이상 매칭 성사**로 교내 교류 활성화에 기여  
+  **200명 이상 사용**, **65팀 이상 매칭 성사**로 교내 교류 활성화에 기여  
 
 - **Luview (러뷰)** (2024.09 ~ 2025.02, Team: 4 B2·F2)  [[Repository]](https://github.com/potato-club/Luview-back)<br>
   커플 전용 기록 및 리뷰 웹 서비스  
