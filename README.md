@@ -47,9 +47,9 @@
 ## Stats & Algorithm
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=jihun4452&show_icons=true&bg_color=ffffff&text_color=000000&icon_color=f1c40f&title_color=e74c3c&border_color=e74c3c"
-    alt="GitHub Stats" />
+ <img
+  src="https://github-readme-stats.vercel.app/api?username=jihun4452&show_icons=true&bg_color=ffffff&text_color=000000&icon_color=f1c40f&title_color=e74c3c&border_color=e74c3c&hide=stars"
+  alt="GitHub Stats" />
   <a href="https://solved.ac/jihun6548/">
     <img
       src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jihun6548"
