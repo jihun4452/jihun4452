@@ -44,16 +44,3 @@
 
 - [JUnit] fix: @ParameterizedClass 필드 인젝션 시 인자 부족 오류를 명확한 예외로 개선 [[#5088]](https://github.com/junit-team/junit-framework/pull/5088) / [관련 블로그](https://velog.io/@jihun4452/JUnit%EC%97%90-%EA%B8%B0%EC%97%AC%EB%A5%BC-%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4)
 
-## Stats & Algorithm
-
-<div align="center">
- <img
-  src="https://github-readme-stats.vercel.app/api?username=jihun4452&show_icons=true&bg_color=ffffff&text_color=000000&icon_color=f1c40f&title_color=e74c3c&border_color=e74c3c&hide=stars"
-  alt="GitHub Stats" />
-  <a href="https://solved.ac/jihun6548/">
-    <img
-      src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jihun6548"
-      alt="Solved.ac Profile" />
-  </a>
-</div>
-
