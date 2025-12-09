@@ -27,7 +27,11 @@
 
 - **Luview (러뷰)** (2024.09 ~ 2025.02, Team: 4 B2·F2)  [[Repository]](https://github.com/potato-club/Luview-back)<br>
   커플 전용 기록 및 리뷰 웹 서비스  
-  **장소 기록·사진 업로드·리뷰 작성**을 통해 커플이 함께한 추억을 관리할 수 있는 서비스  
+  **장소 기록·사진 업로드·리뷰 작성**을 통해 커플이 함께한 추억을 관리할 수 있는 서비스
+  
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/5c7518a0-6c64-4dc5-b692-34b934ad0f36" />
+
+- [JUnit] fix: @ParameterizedClass 필드 인젝션 시 인자 부족 오류를 명확한 예외로 개선 [[#5088]](https://github.com/junit-team/junit-framework/pull/5088) / [관련 블로그](https://velog.io/@jihun4452/JUnit%EC%97%90-%EA%B8%B0%EC%97%AC%EB%A5%BC-%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4)
 
 
 <img width="93" height="46" alt="image" src="https://github.com/user-attachments/assets/b8154a86-2654-4c80-9a5c-4a83f5355edd" />
@@ -39,8 +43,3 @@
 - [Apache Seata] chore: @babel/runtime을 ^7.27.0으로 업그레이드해 종속성 정합성 유지 [[#7673]](https://github.com/apache/incubator-seata/pull/7673)
 
 - [Apache Seata] optimize: axios를 ^1.12.2로 업그레이드해 콘솔 프론트엔드 동기화 [[#7699]](https://github.com/apache/incubator-seata/pull/7699)
-
-<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/5c7518a0-6c64-4dc5-b692-34b934ad0f36" />
-
-- [JUnit] fix: @ParameterizedClass 필드 인젝션 시 인자 부족 오류를 명확한 예외로 개선 [[#5088]](https://github.com/junit-team/junit-framework/pull/5088) / [관련 블로그](https://velog.io/@jihun4452/JUnit%EC%97%90-%EA%B8%B0%EC%97%AC%EB%A5%BC-%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4)
-
