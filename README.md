@@ -43,3 +43,16 @@
 - [Apache Seata] chore: @babel/runtime을 ^7.27.0으로 업그레이드해 종속성 정합성 유지 [[#7673]](https://github.com/apache/incubator-seata/pull/7673)
 
 - [Apache Seata] optimize: axios를 ^1.12.2로 업그레이드해 콘솔 프론트엔드 동기화 [[#7699]](https://github.com/apache/incubator-seata/pull/7699)
+
+## Stats & Algorithm
+
+<div align="center">
+ <img
+  src="https://github-readme-stats.vercel.app/api?username=jihun4452&show_icons=true&bg_color=ffffff&text_color=000000&icon_color=f1c40f&title_color=e74c3c&border_color=e74c3c&hide=stars"
+  alt="GitHub Stats" />
+  <a href="https://solved.ac/jihun6548/">
+    <img
+      src="https://mazassumnida.wtf/api/v2/generate_badge?boj=jihun6548"
+      alt="Solved.ac Profile" />
+  </a>
+</div>
