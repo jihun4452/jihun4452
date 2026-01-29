@@ -16,6 +16,9 @@
 <br>
 
 ### PROJECTS
+- **SEMO (세모)** (2026.01 ~ 현재, Team: B1·F2·D1·PM1) [[Repository]](https://github.com/Central-MakeUs/Delta-Server)<br>
+  수학 문제 사진 기반 오답노트/오답카드 생성·관리 플랫폼<br>
+  문제 사진을 업로드하면 **OCR·AI가 텍스트를 추출하고 단원/유형을 분류**해 오답카드로 정리하는 학습 서비스
 
 - **GamzaTechBlog** (2025.06 ~ 현재, Team: 3 B1·F1·D1)  [[Repository]](https://github.com/potato-club/GamzaTechBlog-back)<br>
   동아리 활동을 위한 기술 블로그 플랫폼  
