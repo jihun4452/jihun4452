@@ -18,7 +18,7 @@
 - [JUnit] fix: @ParameterizedClass 필드 인젝션 시 인자 부족 오류를 명확한 예외로 개선 [[#5088]](https://github.com/junit-team/junit-framework/pull/5088) / [관련 블로그](https://velog.io/@jihun4452/JUnit%EC%97%90-%EA%B8%B0%EC%97%AC%EB%A5%BC-%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4)
 
 
-<img width="87" height="42" alt="image" src="https://github.com/user-attachments/assets/b8154a86-2654-4c80-9a5c-4a83f5355edd" />
+<img width="85" height="40" alt="image" src="https://github.com/user-attachments/assets/b8154a86-2654-4c80-9a5c-4a83f5355edd" />
 
 - [Apache Seata] test: Consul KV 지연에 대비해 최대 3초 재시도로 테스트 안정화 [[#7584]](https://github.com/apache/incubator-seata/pull/7584) / [관련 블로그](https://velog.io/@jihun4452/apache-incubator-seata%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%B2%AB-%EA%B8%B0%EC%97%AC)
 
