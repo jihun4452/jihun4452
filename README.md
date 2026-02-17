@@ -3,7 +3,7 @@
 백엔드 개발자 박지훈입니다.  
 현재는 트래픽 대응과 성능 최적화, 그리고 이를 뒷받침하는 아키텍처 설계에 집중해서 공부하고 있습니다.
 
-### PROJECTS
+### PROJECTS (Side)
 - **SEMO (세모)** (2026.01 ~ 현재, Team: B1·F2·D1·PM1) [[Repository]](https://github.com/Central-MakeUs/Delta-Server)<br>
   수학 학습을 위한 **모바일 앱 기반** 오답노트/오답카드 서비스
 
