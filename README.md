@@ -5,13 +5,8 @@
 
 ### PROJECTS (Side)
 - **SEMO (세모)** (2026.01 ~ 현재, Team: B1·F2·D1·PM1) [[Repository]](https://github.com/Central-MakeUs/Delta-Server)<br>
-  수학 학습을 위한 **모바일 앱 기반** 오답노트/오답카드 서비스
-
 - **GamzaTechBlog** (2025.06 ~ 현재, Team: B1·F1·D1) [[Repository]](https://github.com/potato-club/GamzaTechBlog-back)<br>
-  동아리 활동을 위한 **웹 기반** 기술 블로그 플랫폼
-
 - **Hanmo (한모)** (2025.03 ~ 2025.07, Team: B3·F2·D1) [[Repository]](https://github.com/DevOpsSociety/Hanmo)<br>
-  교내 학생 대상 **웹 기반** 실시간 매칭 서비스 (**200+명 사용**, **65+팀 매칭**)
   
 <img width="55" height="55" alt="image" src="https://github.com/user-attachments/assets/5c7518a0-6c64-4dc5-b692-34b934ad0f36" />
 
