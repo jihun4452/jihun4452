@@ -1,19 +1,14 @@
-## 👋🏻 Hi there, I'm Jihun
+### 👋🏻 Hi there, I'm Jihun
 
-백엔드 개발자 박지훈입니다.  
-현재는 트래픽 대응과 성능 최적화, 그리고 이를 뒷받침하는 아키텍처 설계에 집중해서 공부하고 있습니다.
+I work as a backend developer in ad-tech. <br>
+Currently interested in performance optimization and architecture design.
 
-### PROJECTS (Side)
-- **SEMO (세모)** (2026.01 ~ 현재, Team: B1·F2·D1·PM1) [[Repository]](https://github.com/Central-MakeUs/Delta-Server)<br>
-- **GamzaTechBlog** (2025.06 ~ 현재, Team: B1·F1·D1) [[Repository]](https://github.com/potato-club/GamzaTechBlog-back)<br>
-- **Hanmo (한모)** (2025.03 ~ 2025.07, Team: B3·F2·D1) [[Repository]](https://github.com/DevOpsSociety/Hanmo)<br>
-  
-<img width="55" height="55" alt="image" src="https://github.com/user-attachments/assets/5c7518a0-6c64-4dc5-b692-34b934ad0f36" />
+<img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/5c7518a0-6c64-4dc5-b692-34b934ad0f36" />
 
 - [JUnit] fix: @ParameterizedClass 필드 인젝션 시 인자 부족 오류를 명확한 예외로 개선 [[#5088]](https://github.com/junit-team/junit-framework/pull/5088) / [관련 블로그](https://velog.io/@jihun4452/JUnit%EC%97%90-%EA%B8%B0%EC%97%AC%EB%A5%BC-%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4)
 
 
-<img width="85" height="40" alt="image" src="https://github.com/user-attachments/assets/b8154a86-2654-4c80-9a5c-4a83f5355edd" />
+<img width="67" height="30" alt="image" src="https://github.com/user-attachments/assets/b8154a86-2654-4c80-9a5c-4a83f5355edd" />
 
 - [Apache Seata] test: Consul KV 지연에 대비해 최대 3초 재시도로 테스트 안정화 [[#7584]](https://github.com/apache/incubator-seata/pull/7584) / [관련 블로그](https://velog.io/@jihun4452/apache-incubator-seata%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%B2%AB-%EA%B8%B0%EC%97%AC)
 
